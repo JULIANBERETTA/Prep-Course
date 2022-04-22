@@ -1,0 +1,3 @@
+Prototype: Son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí.
+
+Constructors (de Clases): Es un metodo especial para crear e inicializar un objeto creado a partir de una clase.

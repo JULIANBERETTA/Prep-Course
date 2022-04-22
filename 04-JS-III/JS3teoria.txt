@@ -1,0 +1,1 @@
+ARRAYS (Arreglo): Los arreglos son una cadena de elementos, que puede ser recorrido y modificado.

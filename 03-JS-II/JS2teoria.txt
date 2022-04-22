@@ -1,0 +1,5 @@
+For: se utiliza para repetir una o varias veces cietas instrucciones.
+
+Operadores Logicos: && es el operador "Y" o "AND". Evalua dos expresiones, si ambas son verdaderas devuelve como resultado verdadero, caso contrario devuelve falso.
+                    || es el operador "O" o "OR". Evalua dos expresiones, si ambas expresiones son falsas develve false. 
+                     ! es el operador "NOT" . Devuelve el resultado opuesto del operador. 

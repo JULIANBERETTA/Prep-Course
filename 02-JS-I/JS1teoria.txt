@@ -1,0 +1,7 @@
+Variable: es una palabra que tiene un valor para usarse mas tarde, que puede cambiar su contenido.
+Strings: es una cadena de caacteres que se lo define entre " ".
+Funciones: son objetos invocables.
+Argumentos: son variables que se pueden usar dentro de la funcion.
+Return: es lo que devuelve en pantalla el codigo una vez ejecutado.
+Declaracion (if): es una forma de verificar si algo es verdadero o falso. Si es verdadero cumple una accion,de lo contrario sale.
+Valores boleano: indica que tiene dos valores, verdadero (true) o falso(false).

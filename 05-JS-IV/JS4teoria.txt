@@ -1,0 +1,13 @@
+Objetos:Es un conjunto de propiedades.
+
+Propiedades: Es una asociacion entre un nombre (o clave) y un valor.
+
+Metodos: Es una propiedad de un objeto que es una funcion.
+
+Bucle: for...in   Recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves.
+
+Notacion de puntos:Propiedad debe ser un identificador válido de JavaScript, esto es, una secuencia alfanumérica de caracteres, incluyendo también el guión bajo ("_") y el signo dolar ("$"), 
+que no puede comenzar por un número. Por ejemplo, objeto.$1 es válido, mientras que objeto.1 no lo es.
+
+Notacion de Corchetes: Expresión que se evalúa como una cadena (o puede ser forzada a una cadena), por lo que puede usar ¡cualquier secuencia de caracteres como nombre de propiedad.
+No hay límites para lo que puede contener una cadena.
